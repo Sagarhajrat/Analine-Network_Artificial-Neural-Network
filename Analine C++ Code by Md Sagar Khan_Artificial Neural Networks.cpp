@@ -1,11 +1,4 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
-
+/*C++ code to train given fucntion using analine netowrk_created by Md Sagar Khan*/
 #include <iostream>
 #include<cmath>
 
